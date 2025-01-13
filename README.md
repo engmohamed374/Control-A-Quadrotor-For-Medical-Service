@@ -1,6 +1,6 @@
 # Control-of-A-Quadrotor-For-Medical-Service
 Nonlinear Computed Torque Control of A Quadcopter.
-## Computed Tourque Control
+## Computed Torque Control
 A well-known robotic controller based on the nonlinear control technique feedback linearization. In a simple manner, it "theoretically" eliminates the system non-linearities represented in the M, C, and G matrices in the robotic equation of motion:
 
 ![equation_of_motion](https://github.com/engmohamed374/RRR_Computed_Torque_Control-CTC-/blob/76a955858110b5bec76685bf6cc9cd914230ece6/eqn.gif)
@@ -10,3 +10,9 @@ As shown in the figure below, it is easy to understand that the control cosists 
 ![CTC](https://github.com/engmohamed374/RRR_Computed_Torque_Control-CTC-/blob/76a955858110b5bec76685bf6cc9cd914230ece6/CTC.png)
 ## Publication
 You can find a detailed mathematical modeling for the quadcopter, control, and CFD analysis [here](https://digitalcommons.aaru.edu.jo/erjeng/vol8/iss5/3 "here").
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mohamed-eid-70a6991a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>

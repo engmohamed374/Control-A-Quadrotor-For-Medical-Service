@@ -13,9 +13,6 @@ You can find a detailed mathematical modeling for the quadcopter, control, and C
 ## Contact
 <div id="badges">
   <a href="https://www.linkedin.com/in/mohamed-eid-70a6991a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="engmohamed374@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"/>
   </a>
 </div>
